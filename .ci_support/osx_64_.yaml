@@ -19,7 +19,7 @@ channel_targets:
 fftw:
 - '3'
 gsl:
-- '2.7'
+- '2.8'
 llvm_openmp:
 - '19'
 macos_machine:
